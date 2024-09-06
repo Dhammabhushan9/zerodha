@@ -11,3 +11,25 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.navbar-expand-lg{
+  background-color: white;
+  border-bottom: 1px solid black;
+  padding-left: 200px;
+  padding-right: 200px;
+}
+.nav-item{
+  padding:10px;
+}
+
+.container{
+  margin-top: 150px;
+  padding-left: 150px;
+  padding-right: 150px;
+
+}
+
+.image-about-section{
+ border-radius: 50%;
+ height: 50%;
+margin-left: 150PX;
+}
