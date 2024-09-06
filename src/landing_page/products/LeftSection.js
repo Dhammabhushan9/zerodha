@@ -8,7 +8,7 @@ function LeftSection({imageURL,
             <div className='row'>
                  
             <div className='col-6'>
-                <img src={imageURL} alt="imageURL" />
+                <img style={{width:"100%"}} src={imageURL} alt="imageURL" />
             </div>
                 
             <div className='col-6'>
